@@ -1,0 +1,25 @@
+{
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "curriculo desenvolvido durante curso de HTML e CSS da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmiranda/curriculo.v1.git"
+  },
+  "keywords": [
+    "alura"
+  ],
+  "author": "Pedro Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phmiranda/curriculo.v1/issues"
+  },
+  "homepage": "https://github.com/phmiranda/curriculo.v1#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
