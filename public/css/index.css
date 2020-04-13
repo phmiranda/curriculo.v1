@@ -1,0 +1,19 @@
+/* comentário */
+body{
+    font-family: "Times New Roman", serif;
+    background-color: #F2FFFC;
+}
+
+h1, h2 {
+    font-family: "Arial" , sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+}
+
+p {
+    text-align: justify;
+}
