@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/phmiranda/curriculo.v1#readme",
   "dependencies": {
-    "bootstrap": "^3.4.1"
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.5.0"
   }
 }

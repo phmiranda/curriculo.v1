@@ -1,0 +1,14 @@
+version: "3"
+services:
+  curriculo:
+    build:
+      dockerfile: curriculo.dockerfile
+      context: .
+    image: phmiranda/curriculo-v1:latest
+    container_name: curriculo-v1
+    ports:
+      - "9001:80"
+    volumes:
+      - "/var/www/:/var/www/desenvolvimento/curriculo-v1/"
+volumes:
+  data:
